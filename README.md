@@ -14,6 +14,10 @@ El role de la Junta Directiva es la de arbitraje y ejecución de la voluntad de 
 Solo en caso de bloqueo la Junta Directiva, y en ultima instancia el Presidente, tendrán poder suficiente para resolver y avanzar en las decisiones necesarias.
 
 
-# Guias
-[Junda Directiva](JuntaDirectiva.md)
+## Guias
+- [Junta Directiva](JuntaDirectiva.md)
+- [Órganos de Decisión](OrganosDeDecision.md)
+- [Proceso de Admisión](ProcesoDeAdmision.md)
+- [Resolución de conflictos con no socios](ResolucionDeConflictosConNoSocios.md)
+
 
