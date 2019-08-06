@@ -1,9 +1,9 @@
-# Chapter Centro guiás de gobierno.
-Este repositorio servirá de banco de trabajo para el desarrollo y evolución de guías que la Junta Directiva del Chapter pueden aplicar en la legislatura que sostienen.
+# Guias de gobierno para un Chapter
+Este repositorio servirá de banco de trabajo para el desarrollo y evolución de guías que la Junta Directiva de un Chapter pueden aplicar en la legislatura que sostienen.
 
 Estos textos no son vinculantes ni se pueden elevar a rango de textos reguladores dado que los únicos textos normativos del Club Venox y todos sus chapters son Los Estatutos y el Reglamento Interno.
 
-Estos textos quedan a disposición de las Juntas Directivas del Chapter Centro como guiás y pautas que se tomaron en el pasado y fueran aceptadas por la mayoría de socios del Chapter para gobernar la convivencia del Chapter.
+Estos textos quedan a disposición de las Juntas Directivas del Chapter como guias y pautas que se tomaron en el pasado y fueron aceptadas por la mayoría de socios del Chapter para gobernar la convivencia del Chapter.
 
 # Espíritu
 El espíritu de estas guías es la de proponer procesos de gobierno del Chapter de manera que los socios sostengan el poder de decision, fomentando asi en los socios una mayor sentimiento de pertenencia y de influencia en las decisiones relacionadas con el Chapter. 
