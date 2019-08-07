@@ -25,14 +25,17 @@ Tras haber hecho todo lo que esta en su mano para conciliar la situación, invol
 1. Descripción de qué se espera del Chapter para ayudar a resolver la situación.
 
 ## 3. Ayuda de la JD
-La JD recibirá la petición y se informara de la situación pendiendo opinion y versiones a cuantas personas involucradas.
+La JD recibirá la petición y se informará de la situación pidiendo opinion y versiones a cuantas personas crea necesario.
 Su objetivo es dilucidad la dimension de la situación y los motivos detrás de ella.
 
 En primera instancia la JD intentará mediar con las persona involucradas aprovechando de su posición en el Chapter.
 
 ## 4. Ayuda del Chapter
 Si la JD se considera incapaz de actuar positivamente en la resolución de la situación convocará asamblea para exponer la situación y abrir un debate entre los socios.
-Como es habitual la JD ejercerá de moderador en el debate. El objetivo del mismo es involucrar a todos los socios, conocer su opinion de la situación, compartir su postura con respecto a la situación e involucrados y buscar entre todos una resolución, siempre con la intención de conciliar la situación y permitir una convivencia positiva, tanto del socio incomodo modo del socio que quiere compartir los eventos con un amigo/a no socio.
+
+Como es habitual la JD ejercerá de moderador en el debate. 
+
+El objetivo es involucrar a todos los socios, conocer su opinion de la situación, compartir su postura con respecto a la situación e involucrados y buscar entre todos una resolución, siempre con la intención de conciliar la situación y permitir una convivencia positiva, tanto del socio que se siente incomodo como del socio que quiere compartir los eventos con un amigo/a no socio.
 
 Del debate deberá resultar un plan de acción consensuado cuya ejecución sera supervisada por la JD.
 
@@ -40,7 +43,9 @@ En el caso de no llegar a consenso del mejor plan de acción, las distintas opci
 
 Si el plan de acción contiene plazos, se convocara junta de socios para hacer seguimiento y definir acciones trascurridos los mismos.
 
-Este proceso pude llevar mucho tiempo durante el cual para evitar fricciones y tensiones durante los eventos, los socios del Chapter pueden votar a favor de no invitar al no socio origen del problema a eventos que vayan transcurriendo. En este caso, en asamblea, los socios votaran el no invitar al no socio durante un periodo de tiempo que nunca sera mayor a 3 meses. Este tiempo sera plazo suficiente como para esperar una evolución en el proceso de conciliación. Transcurrido este tiempo, si la situación persiste se podrá votar de nuevo para prorrogar esta situación otro periodo mas, nunca superior a 3 meses.
+Este proceso pude llevar mucho tiempo durante el cual para evitar fricciones y tensiones durante los eventos, los socios del Chapter pueden votar a favor de no invitar al no socio origen del conflicto a eventos que vayan transcurriendo. En este caso, los socios votarán el no invitar al no socio durante un periodo de tiempo que nunca será superior a 3 meses. Este tiempo será plazo suficiente para esperar una evolución en el proceso de conciliación. Transcurrido este tiempo, si la situación persiste se podrá votar de nuevo para prorrogar el estado de veto otro periodo mas, nunca superior a 3 meses.
+
+Las votaciones de veto se regirán por mayoría cualificada donde al menos el 25% de los socios en activo deberán votar
 
 Transcurridos varios periodos, si el conflicto no evoluciona y las votaciones para extender el periodo de veto al no socio siempre es a favor, la JD podrá proponer en la siguiente votación que el periodo sea indefinido. De este modo la situación de veto permanecerá hasta que un socio pida que se vuelva a considerar la situación. En este caso de volverá a considerar la situación y se volverá a votar un plan de acción asi como la situación de veto temporal.
 

@@ -13,22 +13,20 @@ Una asamblea se considerara incapaz de ejercer su poder de decision en el caso d
 
 La lista de socios y su intención de voto serán reflejados en el acta de la asamblea.
 
-Un asunto sometido a consideración require para su aprobación requierá de una mayoría cualificada de más del 50% de votos a favor del total de socios del Chapter. 
+Un asunto sometido a consideración para su aprobación requierá de una mayoría cualificada donde la participación supere el 50% de socios del Chapter. 
 
 En caso de empate la JD resolverá en Votación de JD.
 
 En el caso de no obtener quorum suficiente para satisfacer la mayoría cualificada requerida la votación se considerará nula por falta de quorum y el asunto sometido a consideración pasará a ser responsabilidad del siguiente órgano de decision que podrá decidir o convocar de nuevo al órgano anterior para su decision.
-
-Tras dos votaciones nulas, la decision se resolverá en Votación de JD.
 
 # 2. Votación de JD (VdJD)
 Los socios que ostente roles en la JD tienen el derecho y la obligación de erigir la intención de voto de su role en tantas Votaciones de JD sean convocadas.
 
 La votación se regirá por mayoría cualificada donde se precisa del 50% de votos a favor y un 100% de participación de los miembros de la JD.
 
-En este caso el voto no podrá ser delegado. En caso de no poder asistir a la asamblea necesaria, el miembro de la JD tendrá la obligación de hacer saber al Presidente su intención de voto al asunto sometido a consideración antes de la votación. En ausencia del Presidente el Vicepresidente sera el encargado de trasladar la intención de voto de los miembros de la JD no asistentes.
+En este caso el voto no podrá ser delegado. En caso de no poder participar activamente en la votación, el miembro de la JD tendrá la obligación de hacer saber al Presidente su intención de voto al asunto sometido a consideración antes de la votación. En ausencia del Presidente el Vicepresidente sera el encargado de trasladar la intención de voto de los miembros de la JD que no puedan participar activamente.
 
 Dado el reducido numero de miembros de la JD queda a su conveniencia orquestar las votaciones en modo presencial o telemático.
 
 # 3. El Presidente
-En el caso de que ni el VdS ni el VdJD hayan sido capaces de resolver la decision requerida, el presidente, hará valer su role fruto de la democracia interna del club, y resolverá según crea mas constructivo para el bien del Chapter y del Club.
+En el caso de que todos los órganos de decision anteriores no hayan sido capaces de resolver la decision requerida, el presidente, hará valer su role fruto de la democracia interna del club, y resolverá según crea mas constructivo para el bien del Chapter y del Club.
