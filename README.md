@@ -1,6 +1,8 @@
-# Carta a los socios.
+# ¿Es momento de cambio?
 
-Hola,
+*Madrid Agosto 2019*
+
+Hola soci@s,
 
 Durante la pasada asamblea del 26 de Julio, Se nos pidió a la JD que le diéramos más formalidad a los procesos de Ingreso y resolución de conflictos. La idea global de ambos procesos parecían clara pero los detalles parecieron sorprender a algunos. Siguiendo "el mandato popular" hemos desarrollado unos textos que esperan formalizar ambos procesos.
 
@@ -21,6 +23,6 @@ Un modelo de gobierno inclusivo es mucho mas complejo de regular y de ejecutar q
 
 Comienza el debate y el cambio.
 
-rulas
+rulas.
 Presidente del Chapter Centro.
 
