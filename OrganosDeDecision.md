@@ -31,4 +31,4 @@ En este caso el voto no podrá ser delegado. En caso de no poder asistir a la as
 Dado el reducido numero de miembros de la JD queda a su conveniencia orquestar las votaciones en modo presencial o telemático.
 
 # 3. El Presidente
-En el caso de que ni el VdS ni el VdJD hayan sido capaces de resolver la decision requerida, el presidente, hara valer su posición fruto de la democracia interna del chapter, y resolverá según crea mas constructivo para el bien del Chapter y del Club.
+En el caso de que ni el VdS ni el VdJD hayan sido capaces de resolver la decision requerida, el presidente, hará valer su role fruto de la democracia interna del club, y resolverá según crea mas constructivo para el bien del Chapter y del Club.
