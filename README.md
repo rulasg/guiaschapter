@@ -1,4 +1,3 @@
-# Guias de gobierno para un Chapter
 Este repositorio servirá de banco de trabajo para el desarrollo y evolución de guías que la Junta Directiva de un Chapter pueden aplicar en la legislatura que sostienen.
 
 Estos textos no son vinculantes ni se pueden elevar a rango de textos reguladores dado que los únicos textos normativos del Club Venox y todos sus chapters son Los Estatutos y el Reglamento Interno.
