@@ -15,9 +15,8 @@ Solo en caso de bloqueo la Junta Directiva, y en ultima instancia el Presidente,
 
 
 ## Guias
-- [Junta Directiva](JuntaDirectiva.md)
-- [Órganos de Decisión](OrganosDeDecision.md)
-- [Proceso de Admisión](ProcesoDeAdmision.md)
-- [Resolución de conflictos con no socios](ResolucionDeConflictosConNoSocios.md)
-
-
+1. [Junta Directiva](JuntaDirectiva.md)
+1. [Órganos de Decisión](OrganosDeDecision.md)
+1. [Proceso de Admisión](ProcesoDeAdmision.md)
+1. [Resolución de conflictos con no socios](ResolucionDeConflictosConNoSocios.md)
+1. [Votación Telemática](VotacionTelematica.md)
