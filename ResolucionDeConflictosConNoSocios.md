@@ -1,6 +1,6 @@
 ## Preámbulo
-El principal objetivo del Club Venox es ofrecer a os socios un contexto donde puedan descansar y disfrutar desconectando de su dia a dia gracias al ambiente y valores que este Club ofrece. 
-El Club Venox siempre ha aceptando y alentando la participación de no socios en nuestros eventos porque nos gusta conocer a gente, porque nos gusta compartir y porque los amigos de nuestros amigos son nuestros amigos, y porque el modo de crecer es generando oportunidades de conocer a gente nueva y ser conocido.
+El principal objetivo del Club es ofrecer a os socios un contexto donde puedan descansar y disfrutar desconectando de su dia a dia gracias al ambiente y valores que este Club ofrece. 
+El Club siempre ha aceptando y alentando la participación de no socios en nuestros eventos porque nos gusta conocer a gente, porque nos gusta compartir y porque los amigos de nuestros amigos son nuestros amigos, y porque el modo de crecer es generando oportunidades de conocer a gente nueva y ser conocido.
 
 En ocasiones este ambiente se pude ver enturbiado por las relaciones personas entre distintos invidious que vienen a participar en los eventos, socios o no socios.
 Siempre debe prevalecer la conciliación y todos los socios tienen la obligación de favorecer el reencuentro de posturas y evitar la escalda de cualquier conflicto tanto entre socios como con no socios invitados por algún socio.
@@ -9,7 +9,7 @@ No esta de mas recordar que el socio que invita a un no socio tiene una responsa
 
 Este texto pretende sentar las bases de los haceres que se pueden llevar a cabos para la conciliación entre la libertad de un socio a invitar a un no socio a formar parte de eventos organizados por el Chapter y el derecho de un socio a sentirse agusto en estos eventos.
 
-Este texto no es vinculante ni se puede elevar a rango de texto regulador, dado que los únicos textos normativos del Club Venox y todos sus chapters son Los Estatutos y el Reglamento Interno.
+Este texto no es vinculante ni se puede elevar a rango de texto regulador, dado que los únicos textos normativos del Club y todos sus chapters son Los Estatutos y el Reglamento Interno.
 
 ## 1. Situación
 Un socio se siente incomodo en eventos organizados por el Chapter debido a la participación en el de un no socio invitado. 
