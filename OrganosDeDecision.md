@@ -5,7 +5,7 @@ De este modo las decisiones para el gobierno del Chapter se tomaran por los sigu
 # 1. Votación de socios (VdS)
 Todas las decisiones ejecutivas del Chapter se intentaran tomar en Votación de Socios (VdS).
 
-Las VdS se realizarán durante asamblea de socios. La asamblea y su contenido deberá ser anunciada con cinco o mas dias de antelación.
+Las VdS podrá suceder durante asamblea de socios, si los temas a votar requieren de debate anterior, o por votación telematica si la urgencia lo require o si la sencillez del asunto lo permiten. La asamblea y su contenido deberá ser anunciada con cinco o mas dias de antelación. En el caso de votaciones telemática, las votaciones se podrán anunciar con 48 horas al periodo de votación.
 
 Los socios que no puedan asistir a la asamblea podrán delegar su voto a cualquier socio que vaya a asistir a la asamblea. Ese socio trasladará la intención de voto de otro socio que haya delegado en él pudiendo ser distinto del suyo y de otros votos delegados.
 
@@ -17,7 +17,7 @@ Un asunto sometido a consideración require para su aprobación requierá de una
 
 En caso de empate la JD resolverá en Votación de JD.
 
-En el caso de no obtener quorum suficiente para satisfacer la mayoría cualificada requerida la votación se considerará nula por falta de quorum y el asunto sometido a consideración deberá ser agendado de nuevo en posteriores asambleas. 
+En el caso de no obtener quorum suficiente para satisfacer la mayoría cualificada requerida la votación se considerará nula por falta de quorum y el asunto sometido a consideración pasará a ser responsabilidad del siguiente órgano de decision que podrá decidir o convocar de nuevo al órgano anterior para su decision.
 
 Tras dos votaciones nulas, la decision se resolverá en Votación de JD.
 
@@ -27,6 +27,8 @@ Los socios que ostente roles en la JD tienen el derecho y la obligación de erig
 La votación se regirá por mayoría cualificada donde se precisa del 50% de votos a favor y un 100% de participación de los miembros de la JD.
 
 En este caso el voto no podrá ser delegado. En caso de no poder asistir a la asamblea necesaria, el miembro de la JD tendrá la obligación de hacer saber al Presidente su intención de voto al asunto sometido a consideración antes de la votación. En ausencia del Presidente el Vicepresidente sera el encargado de trasladar la intención de voto de los miembros de la JD no asistentes.
+
+Dado el reducido numero de miembros de la JD queda a su conveniencia orquestar las votaciones en modo presencial o telemático.
 
 # 3. El Presidente
 En el caso de que ni el VdS ni el VdJD hayan sido capaces de resolver la decision requerida, el presidente, hara valer su posición fruto de la democracia interna del chapter, y resolverá según crea mas constructivo para el bien del Chapter y del Club.

@@ -6,4 +6,4 @@ Los roles principales serán
 - **Presidente** - máximo poder de gobierno del Chapter y único representante en la Junta Directiva Nacional.
 - **Vicepresidente** - segundo poder de gobierno del Chapter. Representante del Chapter en caso de ausencia del Presidente.
 
-> Esta en estudio la ampliación de miembros de la Junta Directiva del chapter para crear una Junta Ejecutiva y segundo órgano de decision, con mayor representación de socios.
+> Está en estudio la ampliación del numero de miembros que forman la Junta Directiva del chapter para crear una Junta Ejecutiva y segundo órgano de decision, con mayor representación de socios.
