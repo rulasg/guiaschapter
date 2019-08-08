@@ -23,6 +23,7 @@ Un modelo de gobierno inclusivo es mucho mas complejo de regular y de ejecutar q
 
 Comienza el debate y el cambio.
 
-rulas.
+**rulas.**
+
 Presidente del Chapter Centro.
 
