@@ -43,7 +43,7 @@ En el caso de no llegar a consenso del mejor plan de acción, las distintas opci
 
 Si el plan de acción contiene plazos, se convocara junta de socios para hacer seguimiento y definir acciones trascurridos los mismos.
 
-Este proceso pude llevar mucho tiempo durante el cual para evitar fricciones y tensiones durante los eventos, los socios del Chapter pueden votar a favor de no invitar al no socio origen del conflicto a eventos que vayan transcurriendo. En este caso, los socios votarán el no invitar al no socio durante un periodo de tiempo que nunca será superior a 3 meses. Este tiempo será plazo suficiente para esperar una evolución en el proceso de conciliación. Transcurrido este tiempo, si la situación persiste se podrá votar de nuevo para prorrogar el estado de veto otro periodo mas, nunca superior a 3 meses.
+Este proceso pude llevar mucho tiempo durante el cual para evitar fricciones y tensiones durante los eventos, los socios del Chapter pueden votar a favor de que ningún socio invite al no socio origen del conflicto a eventos que vayan transcurriendo. En este caso, los socios votarán el no invitar al no socio durante un periodo de tiempo que nunca será superior a 3 meses. Este tiempo será plazo suficiente para esperar una evolución en el proceso de conciliación. Transcurrido este tiempo, si la situación persiste se podrá votar de nuevo para prorrogar el estado de veto otro periodo mas, nunca superior a 3 meses.
 
 Las votaciones de veto se regirán por mayoría cualificada donde al menos el 25% de los socios en activo deberán votar
 
