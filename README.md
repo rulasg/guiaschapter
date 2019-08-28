@@ -30,4 +30,4 @@ Comienza el debate y el cambio si queréis.
 ## **[Guías de gobierno de un Chapter](home.md)**
 
 **rulas.**  
-Presidente del Chapter Centro.
+_Presidente del Chapter Centro._
