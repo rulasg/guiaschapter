@@ -25,7 +25,7 @@ Un modelo de gobierno inclusivo es mucho mas complejo de regular y de ejecutar q
 
 Una vez presentados el orígen de la idea y las motivaciones podemos pasar a leer _**Guías de gobierno de un Chapter**_ donde encontraremos los procesos y normas que proponemos.
 
-## **[Guías de gobierno de un Chapter](home.md)**
+### **[Guías de gobierno de un Chapter](home.md)**
 
 Comienza el debate y el cambio si queréis.
 
