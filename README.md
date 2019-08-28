@@ -23,7 +23,9 @@ Os animo a reflexionar del tipo de gobierno de Chapter que deseáis. Uno donde e
 
 Un modelo de gobierno inclusivo es mucho mas complejo de regular y de ejecutar que uno absolutista, pero creo que en estos momentos hay ganas y fuerzas de participar, y me parece un buen momento de sentar las bases de un modo de gobierno popular que ofrezca una continuidad y estabilidad mas haya de una JD o un presidente.
 
-Una vez presentados el orígen de la idea y las motivaciones podemos pasar a leer [Guías de gobierno de un Chapter](home.md) donde encontraremos los procesos y normas que proponemos.
+Una vez presentados el orígen de la idea y las motivaciones podemos pasar a leer _**Guías de gobierno de un Chapter**_ donde encontraremos los procesos y normas que proponemos.
+
+## **[Guías de gobierno de un Chapter](home.md)**
 
 Comienza el debate y el cambio si queréis.
 
