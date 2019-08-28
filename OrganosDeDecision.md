@@ -45,9 +45,9 @@ Los Estatutos y Reglamento Interno del Club rigen esta figura en el Chapter. Com
 Todo socio debe sentir que tiene representación en la JD del chapter.
 > Estamos trabajando para saber si podemos agregar a estos dos vocales a la Junta Directiva Ampliada Nacional también, de modo que esta representacion también tenga ámbito nacional.
 
-Tras las elecciones presidenciales del chapter, se abrirá un sufragio donde todos los socios votarán por su representante en la JD excluyendo al Presidente y Vice Presidente ya elegidos.
+Tras las elecciones presidenciales del chapter, se abrirá un sufragio donde todos los socios votarán por su representante en la JD excluyendo al Presidente y Vice Presidente ya elegidos. 
 De la votación se desprenderá la lista ordenada en popularidad de los candidatos a representar a los sociso en la JD.
-De la votación se nombraran como vocales a los dos socios mas votadas que entrarán a formar parte de la JD junto al Presidente y Vice Presidente. 
-Si los socios mas votados no aceptaran en cargo, los siguientes mas votados 
+De la votación a los dos socios mas votadas se les ofrecera la posibilidad de formar parte de la JD junto al Presidente y Vice Presidente como vocales.
+Si alguno de los socios mas votados no aceptara el cargo de vocal, el ofrecimiento pasara al siguientes más votado. 
 
-> En esta primera legislatura de aplicación de la GuiaChapter el Presidente y Vicepresidente han elegido a los dos vocales que junto a ellos consiguen representar todas las sensibilidades actuales del chapter.
+> En esta primera legislatura de consolidacion de la GuiaChapter el Presidente y Vicepresidente han elegido a los dos socios que junto a ellos creen consiguen representar las actuales sensibilidades del chapter para que asuman el role de vocal.
