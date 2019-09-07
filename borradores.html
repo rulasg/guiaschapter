@@ -11,7 +11,7 @@ permalink: /borradores/
   {% for draft in borradores %}
   <article class="drafts">
 
-    <h1><a href="{{ draft.url }}">{{ draft.title }}</a></h1>
+    <h1><a href="{{ site.baseurl }}{{ draft.url }}">{{ draft.title }}</a></h1>
 
     <div class="entry">
       {{ draft.excerpt }}
