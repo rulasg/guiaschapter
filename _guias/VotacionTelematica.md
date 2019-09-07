@@ -1,7 +1,14 @@
+---
+layout: guia
+title: Votación telemática.
+date: 2019-09-06
+category : Orgánica
+---
+
 Esta guía pretende definir un modelos de gobierno donde los socios tengan mayor protagonismo en las decisiones que se toman.
 Este ejercicio democrático históricamente ha sucedido a través de votaciones presenciales en asamblea. Si queremos que los socios esten mas involucrados este modelo no es suficiente dado el numero de asambleas que se convocan y las posibilidades individuales de poder asistir a las mismas.
 
-Con esta intención se define este procedo de votación telemático donde los socios podrán hacer ejercicio de su derecho a voto independientemente de su ubicación.
+Con esta intención se define este procedo de votación telemática donde los socios podrán hacer ejercicio de su derecho a voto independientemente de su ubicación.
 
 ## Voto a través de grupos de WhatsApp
 
@@ -13,9 +20,8 @@ Con esta intención se define este procedo de votación telemático donde los so
     - 👍🏻 - A favor
     - 👎🏻 - En contra
     - ✊ - Abstención
-
 6. Transcurrido el periodo de votación la JD revertirá el modo del grupo a solo lectura. 
-> Si se produjera algún voto fuera del periodo de votación por retraso en cambiar el modo, los cotos fuera de tiempo serán eliminados del grupo.
+    - Si se produjera algún voto fuera del periodo de votación por retraso en cambiar el modo, los cotos fuera de tiempo serán eliminados del grupo.
 7. El resultado de la votación se publicará en el grupo del Chapter.
 
-Un socio puede añadirse al grupo, votar y salirse. 
+Un socio puede añadirse al grupo, votar y salirse.
