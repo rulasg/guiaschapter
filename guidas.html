@@ -1,0 +1,32 @@
+---
+layout: default
+title: Guias
+---
+
+<div class="guias">
+  
+  {% assign guias = (site.guias | sort: 'date') | reverse %}
+  {% for guias in guias %}
+  <article class="guias">
+
+    <h1><a href="{{ guias.url }}">{{ guias.title }}</a></h1>
+
+    <div class="entry">
+      {{ guias.excerpt }}
+    </div>
+
+    <small>
+      <i>Escrito el {{ guias.date | date: "%e / %b / %Y" }}</i>
+      <br>
+      <b>{ guias.category}}</b>
+    </small>
+    <div>
+      <a href="{{ guias.url }}" class="read-more">Leer  más</a><br>
+    </div>
+    <div class= github_url>
+      <a href="{{ site.github.repository_url }}/edit/{{site.code-branch}}/{{ guias.path }}" class="read-more">...</a>      
+    </div>
+
+  </article>
+  {% endfor %}
+</div>

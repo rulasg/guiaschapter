@@ -1,0 +1,32 @@
+---
+layout: default
+title: Borradores
+---
+
+<div class="drafts">
+  
+  {% assign borradores = (site.borradores | sort: 'date') | reverse %}
+  {% for draft in borradores %}
+  <article class="drafts">
+
+    <h1><a href="{{ draft.url }}">{{ draft.title }}</a></h1>
+
+    <div class="entry">
+      {{ draft.excerpt }}
+    </div>
+
+    <small>
+      <i>Escrito el {{ draft.date | date: "%e / %b / %Y" }}</i>
+      <br>
+      <b>{{draft.category}}</b>
+    </small>
+    <div>
+      <a href="{{ draft.url }}" class="read-more">Leer  más</a><br>
+    </div>
+    <div class= github_url>
+      <a href="{{ site.github.repository_url }}/edit/{{site.code-branch}}/{{ draft.path }}" class="read-more">...</a>      
+    </div>
+
+  </article>
+  {% endfor %}
+</div>
