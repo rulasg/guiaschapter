@@ -1,7 +1,6 @@
 ---
 layout: page
 title : ¿Es momento de cambio?
-
 ---
 *Madrid Agosto 2019*
 
@@ -30,7 +29,7 @@ Una vez presentados el orígen de la idea y las motivaciones podemos pasar a lee
 
 Comienza el debate y el cambio si queréis.
 
-## **[Guías de gobierno de un Chapter](home.md)**
+## **[Guías de gobierno de un Chapter](index.md)**
 
 **rulas.**  
 _Presidente del Chapter Centro._

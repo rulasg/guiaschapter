@@ -1,7 +1,9 @@
 ---
-title : page
+title : default
 title: Comencemos.
 ---
+
+# [¿Es momento de cambio?](README.md)
 
 Este repositorio servirá de banco de trabajo para el desarrollo y evolución de guías que la Junta Directiva de un Chapter pueden aplicar en la legislatura que sostienen.
 
@@ -20,14 +22,7 @@ Solo en caso de bloqueo la Junta Directiva, y en ultima instancia el Presidente,
 
 ## [Guias](guias.html)
 
-{% assign guias = (site.guias | sort: 'date') | reverse %}
+{% assign guias = (site.guias | sort: 'date') %}
 {% for guia in guias %}
 1. [{{guia.title}}]({{ site.baseurl }}{{ guia.url }})
 {% endfor %}
-
-## Guias
-1. [Junta Directiva](JuntaDirectiva.md)
-1. [Órganos de Decisión](OrganosDeDecision.md)
-1. [Proceso de Admisión](ProcesoDeAdmision.md)
-1. [Resolución de conflictos con no socios](ResolucionDeConflictosConNoSocios.md)
-1. [Votación Telemática](VotacionTelematica.md)
