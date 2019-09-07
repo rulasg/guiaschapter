@@ -21,7 +21,7 @@ Solo en caso de bloqueo la Junta Directiva, y en ultima instancia el Presidente,
 ## [Guias](guias.html)
 {% assign guias = (site.guias | sort: 'date') | reverse %}
 {% for guia in guias %}
-1. [{{guia.title}}]({{guia.relative_path}})
+1. [{{guia.title}}]({{ site.baseurl }}{{ guia.url }})
 {% endfor %}
 
 ## Guias
