@@ -19,13 +19,13 @@ permalink: /guias/
     <small>
       <i>Escrito el {{ guias.date | date: "%e / %b / %Y" }}</i>
       <br>
-      <b>{ guias.category}}</b>
+      <b>{{ guias.category}}</b>
     </small>
     <div>
       <a href="{{ guias.url }}" class="read-more">Leer  más</a><br>
     </div>
     <div class= github_url>
-      <a href="{{ site.github.repository_url }}/edit/{{site.code-branch}}/{{ guias.path }}" class="read-more">...</a>      
+      <a href="{{ site.github.repository_url }}/edit/master/{{ guias.path }}" class="read-more">...</a>      
     </div>
 
   </article>
