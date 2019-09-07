@@ -7,7 +7,8 @@ category : Orgánica
 
 La Junta Directiva del Chapter la forman el conjunto de socios que ostentan roles en el órgano de gobierno del Chapter.
 
-Los roles principales serán 
+Los roles principales serán :
+
 - **Presidente** - máximo poder de gobierno del Chapter y único representante en la Junta Directiva Nacional.
 - **Vicepresidente** - segundo poder de gobierno del Chapter. Representante del Chapter en caso de ausencia del Presidente.
 
