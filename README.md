@@ -1,5 +1,8 @@
-# ¿Es momento de cambio?
+---
+layout: page
+title : ¿Es momento de cambio?
 
+---
 *Madrid Agosto 2019*
 
 Hola socios,
