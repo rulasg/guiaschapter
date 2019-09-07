@@ -5,6 +5,8 @@ descriptio: [Guías de gobierno para un Chapter.]
 url: https://rulasg.github.io/guiaschapter"
 baseurl: "/guiaschapter"
 
+repository: rulasg/guiaschapter
+
 collections:
   borradores:
     output: true

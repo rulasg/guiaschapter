@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: guia
 title: Junta Directiva del Chapter
 date: 2019-09-06
 category : Orgánica

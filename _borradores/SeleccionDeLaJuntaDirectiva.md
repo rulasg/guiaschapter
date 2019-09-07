@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: guia
 title : Elección de la Junta Directiva (JD).
 date: 2019-09-07
 ---
