@@ -8,6 +8,8 @@ baseurl: "/guiaschapter"
 
 repository: rulasg/guiaschapter
 
+code-branch: master
+
 collections:
   borradores:
     output: true
