@@ -2,11 +2,11 @@ theme: jekyll-theme-dinky
 title: [Guías Chapter]
 descriptio: [Guías de gobierno para un Chapter.]
 
-url: https://rulasg.github.io"
+url: "https://rulasg.github.io"
 
 baseurl: "/guiaschapter"
 
-repository: rulasg/guiaschapter
+repository: "rulasg/guiaschapter"
 
 code-branch: master
 
