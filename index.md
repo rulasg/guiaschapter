@@ -5,7 +5,7 @@ title: Guías de gobierno para un Chapter.
 
 ## ¿Es momento de cambio?
 
-Lee la carta de presentación de esta iniciativa aqui: [¿Es momento de cambio?](README.md)
+Lee la carta de presentación de esta iniciativa aquí : [¿Es momento de cambio?](README.md)
 
 Este repositorio servirá de banco de trabajo para el desarrollo y evolución de guías que la Junta Directiva de un Chapter pueden aplicar en la legislatura que sostienen.
 
