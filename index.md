@@ -1,5 +1,5 @@
 ---
-title : default
+layout : default
 title: Comencemos.
 ---
 
@@ -24,5 +24,4 @@ Solo en caso de bloqueo la Junta Directiva, y en ultima instancia el Presidente,
 
 {% assign guias = (site.guias | sort: 'date') %}
 {% for guia in guias %}
-1. [{{guia.title}}]({{ site.baseurl }}{{ guia.url }})
-{% endfor %}
+1. [{{guia.title}}]({{ site.baseurl }}{{ guia.url }}){% endfor %}
