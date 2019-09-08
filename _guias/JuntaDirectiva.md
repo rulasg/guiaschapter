@@ -13,4 +13,4 @@ Los roles son :
 - **Vicepresidente** - Representante del Chapter en caso de ausencia del Presidente a nivel nacional.
 - **Vocales** - Representares de la voluntad de los miembros del chapter en la JD. El numero debería variar en función del numero de socios que confirman el chapter.
 
-Estos socios forman el órgano de decision VdJD, segundos en el orden de órganos de decisión.
+Estos socios forman el órgano de decision [VdJD](OrganosDeDecision.md#2-votaci%C3%B3n-de-jd-vdjd).
