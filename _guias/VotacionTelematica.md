@@ -19,7 +19,7 @@ Con esta intención se define este procedo de votación telemática donde los so
 5. Los socios votaran publicando uno de los 3 iconos siguientes 
     - 👍🏻 - A favor
     - 👎🏻 - En contra
-    - ✊ - Abstención
+    - ✊🏻 - Abstención
 6. Transcurrido el periodo de votación la JD revertirá el modo del grupo a solo lectura. 
     - Si se produjera algún voto fuera del periodo de votación por retraso en cambiar el modo, los cotos fuera de tiempo serán eliminados del grupo.
 7. El resultado de la votación se publicará en el grupo del Chapter.
