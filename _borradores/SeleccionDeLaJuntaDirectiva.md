@@ -2,7 +2,7 @@
 layout: guia
 title : Elección de la Junta Directiva (JD).
 date: 2019-09-07
-hasgtag: EleccionDeLaJuntaDirectiva
+hashtag:  EleccionDeLaJuntaDirectiva
 ---
 
 Proposición de proceso para seleccionar de forma democrática toda la JD el Chapter, Presidente, VicePresidente como el numero de vocales que se haya establecido.
@@ -15,7 +15,7 @@ Todo este proceso se realizará de forma presencial en asamblea como dictan los 
 
 ## Selección del órgano de gobierno del chapter
 
-### Lista de respresentates
+### Lista de representantes
 
 1. Antes del proceso, los socios que tengán especial inclinación a NO formar parte de la JD como aquellas que desearían, podrán expresaran estas inquietudes al resto de los socios con la intención de orientar a los mismo de la posible utilidad de su voto hacia ellos.
 1. Todos los socios de pleno derecho en el momento del proceso emitirán su voto eligiendo a la persona que crean mejor les pueda representar en la JD. Se deberá garantizar el secreto de voto si el votante lo desea.
@@ -36,7 +36,7 @@ Todo este proceso se realizará de forma presencial en asamblea como dictan los 
 
 ### Elección de Vice-Presidente
 
-1. Una vez elegidos el Presidente y confirmada la JD, el Presidente podrá ofrecer el role de Vice-Presidente a uno de los actuales miembros de la JD. 
+1. Una vez elegidos el Presidente y confirmada la JD, el Presidente podrá ofrecer el role de Vice-Presidente a uno de los actuales miembros de la JD.
 1. El candidato podrá aceptar o declinar el ofrecimiento permitiendo al presidente ofrecerle el cargo a otro miembro de la JD.
 1. En el caso de que ningún miembro del a JD acepte el ofrecimiento del PResidente, o en el caso de que el Presidente renuncie a su elección de Vice-Presidente el role de Vice-Presidente será ofrecido al segundo mas votado en la lista de representantes
 
@@ -51,7 +51,7 @@ Los estatutos a nivel nacional requieren al chapter que elija de forma democrát
 
 En el caso de que algún miembro de la JD no pudiera o quisiera seguir sosteniendo su cargo se procederá a la configuración de la JD del siguiente modo.
 
-### Cese de algun miembro de la JD
+### Cese de algún miembro de la JD
 
 En el caso de que un miembro de la Jd no pudiera o quisiera seguir sosteniendo su role, se lo hará saber al Presidente y al resto de miembros de la JD. El Presidente le ofrecerá el puesto vacante al siguiente en la lista de representantes. El socio podrá aceptar el role o declinaran a favor del siguiente en la lista.
 
