@@ -31,21 +31,23 @@ Todo este proceso se realizará de forma presencial en asamblea como dictan los 
 
 ### Elección de Presidente
 
-1. La presidencia será ofrecida al socio mas votado.
+1. La presidencia será ofrecida al socio mas votado de entre los miembros de la JD.
 1. El candidato podrá aceptar el cargo o declinar en favor del siguiente en la lista.
+1. En el caso de que todos los miembros de la JD declinen la oferta, el cargo será asignado al socio de la JD mas votado.
 
 ### Elección de Vice-Presidente
 
-1. Una vez elegidos el Presidente y confirmada la JD, el Presidente podrá ofrecer el role de Vice-Presidente a uno de los actuales miembros de la JD.
+1. Una vez elegidos el Presidente de entre los miembros de la JD, el Presidente podrá ofrecer el role de Vice-Presidente a uno de los actuales miembros de la JD.
 1. El candidato podrá aceptar o declinar el ofrecimiento permitiendo al presidente ofrecerle el cargo a otro miembro de la JD.
-1. En el caso de que ningún miembro del a JD acepte el ofrecimiento del PResidente, o en el caso de que el Presidente renuncie a su elección de Vice-Presidente el role de Vice-Presidente será ofrecido al segundo mas votado en la lista de representantes
+1. En el caso de que ningún miembro del a JD acepte el ofrecimiento del Presidente o el Presidente renuncie a elegir a su Vice-Presidente,  el role de Vice-Presidente será ofrecido al segundo más votado de entre los miembros de la JD.
+1. En el caso de que ningún miembro del a JD aceptara el cargo por orden de la lista de representantes, el cargo de Vice-Presidente será asignado al miembro de la JD mas votado a excepción del Presidente.
 
 ## Compatibilidad con los Estatutos
 
 > [Artículo 8.](http://clubvenox.es/foro/viewtopic.php?f=7&t=46493)
 Los vocales serán los presidentes de los distintos chapters que formen la Asociación. Serán elegidos por mayoría en Asamblea de Chapter y ratificados por la JD. Los candidatos serán socios activos de la Asociación y deberán presentar a la asamblea su equipo de gobierno local formado al menos por un vicepresidente y su propuesta de trabajo para el período electo.
 
-Los estatutos a nivel nacional requieren al chapter que elija de forma democrática y por mayoría y en asamblea del chapter a un Presidente. Este presentará a la JD Nacional su equipo de gobierno local que está formado por el Vice-Presidente y los vocales que conforman la JD del Chapter.
+Los estatutos a nivel nacional requieren al chapter que elija de forma democrática, por mayoría y en asamblea del chapter a un Presidente. Este presentará a la JD Nacional su equipo de gobierno local que estará formado por el Vice-Presidente y los vocales que conforman la JD del Chapter.
 
 ## Elecciones extraordinarias
 
@@ -53,12 +55,12 @@ En el caso de que algún miembro de la JD no pudiera o quisiera seguir sostenien
 
 ### Cese de algún miembro de la JD
 
-En el caso de que un miembro de la Jd no pudiera o quisiera seguir sosteniendo su role, se lo hará saber al Presidente y al resto de miembros de la JD. El Presidente le ofrecerá el puesto vacante al siguiente en la lista de representantes. El socio podrá aceptar el role o declinaran a favor del siguiente en la lista.
+En el caso de que un miembro de la Jd no pudiera o quisiera seguir sosteniendo su cargo, se lo hará saber al Presidente y al resto de miembros de la JD. El Presidente le ofrecerá el puesto vacante al siguiente en la lista de representantes orden descendente por numero de votos. El socio podrá aceptar el role o declinaran a favor del siguiente en la lista.
 
 ### Cese del Vice-Presidente
 
-En el caso de que el Vice-Presidente renuncie a su role, se procederá a elegir un nuevo Vice-Presidente siguiendo lel proceso anteriormente descritas.
+En el caso de que el Vice-Presidente renuncie a su cargo, se lo hará saber al Presidente y al resto de miembros de la JD. Le Presidente procederá a elegir un nuevo Vice-Presidente siguiendo el proceso anteriormente descrito.
 
 ### Cese del Presidente
 
-En el caso de que el PResidente renuncie a su role, se procederá a elegir de nuevo un nuevo Presidente siguiendo el proceso anteriormente indicado pudiendo derivar en movimiento de otros roles.
+En el caso de que el Presidente renuncie a su cargo, se lo hará saber al resto de miembros de la JD. El Vice-Presidente procederá a elegir de nuevo un nuevo Presidente siguiendo el proceso anteriormente indicado pudiendo derivar en movimiento de otros cargos.
