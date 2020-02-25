@@ -3,43 +3,51 @@ layout: guia
 title : Elección de la Junta Directiva (JD).
 date: 2019-09-07
 hashtag:  EleccionDeLaJuntaDirectiva
+category : Orgánica
 ---
 
-Proposición de proceso para seleccionar de forma democrática toda la JD el Chapter, Presidente, VicePresidente como el numero de vocales que se haya establecido.
+Proposición de proceso para seleccionar de forma democrática al Presidente, VicePresidente y el resto de la JD del Chapter.
 
 ## Condiciones generales
 
-El presidente saliente será el responsable de convocar elecciones de nueva ejecutiva y salvaguardar todo el proceso ayudado por la JD saliente.
 
 Todo este proceso se realizará de forma presencial en asamblea como dictan los estatutos nacionales.
 
 ## Selección del órgano de gobierno del chapter
 
-### Lista de representantes
+El presidente saliente será el responsable de convocar elecciones de nueva ejecutiva y salvaguardar todo el proceso ayudado por la JD saliente.
 
-1. Antes del proceso, los socios que tengán especial inclinación a NO formar parte de la JD como aquellas que desearían, podrán expresaran estas inquietudes al resto de los socios con la intención de orientar a los mismo de la posible utilidad de su voto hacia ellos.
+### Antes de las elecciones
+
+Todos los socios que lo crean conveniente podrán compartir con el chapter su postura en cuanto a su deseo o rechazo a formar parte de la próxima JD del Chapter. De este modo los socios sabrán la intención de los posibles candidatos a aceptar o declinar los cargos que se le pudieran ofrezcan durante el proceso.
+
+### Creación de lista de representantes
+
+La lista de representares es una lista que contiene a todos los socios que obtuvieron algún voto durante el ultimo proceso se elecciones de JD del chapter, ordenada de forma descendente por números de votos conseguidos.
+
 1. Todos los socios de pleno derecho en el momento del proceso emitirán su voto eligiendo a la persona que crean mejor les pueda representar en la JD. Se deberá garantizar el secreto de voto si el votante lo desea.
 1. El voto podrá ser delegado, habiendo el delegante informado a la JD saliente cual será su delegado con anterioridad al día de la votación.
-1. Una vez finalizada la votación se formalizara la lista de representares del chapter formado por todos los socios que hayan obtenido alguna votación ordenado de mayor a menor por numero de votos obtenidos.
+1. Una vez finalizada la votación se formalizara la lista de representares del chapter formado por todos los socios que hayan obtenido alguna votación ordenado de forma descendente por numero de votos obtenidos.
 
-> Esta lista se mantendrá durante toda la legislatura para hacer uso de ella en el caso de precisar la configuración de la JD del chapter.
+> Esta lista se mantendrá durante toda la legislatura para hacer uso de ella en el caso de precisar la re-configuración de la JD del chapter.
 
-### Elección de la Junta Directiva
+### Constitución de la JD
 
 1. Se ofrecerá formar parte de la JD a los socios mas votados en orden descendente hasta completar el numero de miembros de la JD.
-1. Los candidatos podrán aceptar el cargo o declinar en favor del siguiente en la lista.
+1. Los candidatos podrán aceptar el cargo o declinar en favor del siguiente en la lista de representantes.
 
 ### Elección de Presidente
 
 1. La presidencia será ofrecida al socio mas votado de entre los miembros de la JD.
 1. El candidato podrá aceptar el cargo o declinar en favor del siguiente en la lista.
-1. En el caso de que todos los miembros de la JD declinen la oferta, el cargo será asignado al socio de la JD mas votado.
+1. En el caso de que todos los miembros de la JD declinen el ofrecimiento, el cargo será asignado al socio de la JD mas votado.
 
 ### Elección de Vice-Presidente
 
-1. Una vez elegidos el Presidente de entre los miembros de la JD, el Presidente podrá ofrecer el role de Vice-Presidente a uno de los actuales miembros de la JD.
-1. El candidato podrá aceptar o declinar el ofrecimiento permitiendo al presidente ofrecerle el cargo a otro miembro de la JD.
-1. En el caso de que ningún miembro del a JD acepte el ofrecimiento del Presidente o el Presidente renuncie a elegir a su Vice-Presidente,  el role de Vice-Presidente será ofrecido al segundo más votado de entre los miembros de la JD.
+1. El recién elegido Presidente podrá ofrecer el cargo de Vice-Presidente a uno de los actuales miembros de la JD.
+1. El candidato podrá aceptar o declinar el ofrecimiento permitiendo al presidente ofrecerle el cargo a otro miembro de la JD y asi sucesivamente.
+1. En el caso de que el Presidente renuncia a su derecho de elegir Vice-Presidente, el cargo sera ofrecido al segundo miembro de la JD mas votado que podrá aceptar o declinar en favor al siguiente en la lista.
+1. En el caso de que ningún miembro de la JD acepte el ofrecimiento del cargo, el role de Vice-Presidente será asignado al segundo miembro de la JD más votado a excepción del Presidente.
 1. En el caso de que ningún miembro del a JD aceptara el cargo por orden de la lista de representantes, el cargo de Vice-Presidente será asignado al miembro de la JD mas votado a excepción del Presidente.
 
 ## Compatibilidad con los Estatutos
@@ -51,16 +59,10 @@ Los estatutos a nivel nacional requieren al chapter que elija de forma democrát
 
 ## Elecciones extraordinarias
 
-En el caso de que algún miembro de la JD no pudiera o quisiera seguir sosteniendo su cargo se procederá a la configuración de la JD del siguiente modo.
+En el caso de que algún miembro de la JD no pudiera o quisiera seguir sosteniendo su cargo se procederá a la re-configuración de la JD.
 
-### Cese de algún miembro de la JD
+El miembro de la JD que no pudiera o quisiera seguir sosteniendo su cargo deberá hacérselo saber al Presidente y al resto de miembros de la JD. El puesto en la JD se le ofrecerá al siguiente socio en la lista de representantes que podrá aceptar o declinar en favor del siguiente en la lista.
 
-En el caso de que un miembro de la Jd no pudiera o quisiera seguir sosteniendo su cargo, se lo hará saber al Presidente y al resto de miembros de la JD. El Presidente le ofrecerá el puesto vacante al siguiente en la lista de representantes orden descendente por numero de votos. El socio podrá aceptar el role o declinaran a favor del siguiente en la lista.
+Si el miembro saliente de la JD fuera el Presidente o Vice-Presidente, se procedería a la re-elección de estos cargos siguiendo el proceso habitual de elección descrito anteriormente.
 
-### Cese del Vice-Presidente
-
-En el caso de que el Vice-Presidente renuncie a su cargo, se lo hará saber al Presidente y al resto de miembros de la JD. Le Presidente procederá a elegir un nuevo Vice-Presidente siguiendo el proceso anteriormente descrito.
-
-### Cese del Presidente
-
-En el caso de que el Presidente renuncie a su cargo, se lo hará saber al resto de miembros de la JD. El Vice-Presidente procederá a elegir de nuevo un nuevo Presidente siguiendo el proceso anteriormente indicado pudiendo derivar en movimiento de otros cargos.
+Durante el proceso de re-elección se descartaran las posibles declinaciones que los candidatos pudieran haber realizado a ofrecimientos de cargos durante el proceso de elección anterior.
