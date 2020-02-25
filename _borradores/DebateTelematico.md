@@ -3,6 +3,7 @@ layout: guia
 title : Debate Telemático
 date: 2019-09-07
 hashtag: DebateTelematico
+category : Orgánica
 ---
  
 Con la intención de permitir al mayor número de socios participar en los debates asociados con temas del charter, se fomentará la realización de los mismos de forma telemática.
