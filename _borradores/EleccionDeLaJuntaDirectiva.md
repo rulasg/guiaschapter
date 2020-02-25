@@ -10,7 +10,6 @@ Proposición de proceso para seleccionar de forma democrática al Presidente, Vi
 
 ## Condiciones generales
 
-
 Todo este proceso se realizará de forma presencial en asamblea como dictan los estatutos nacionales.
 
 ## Selección del órgano de gobierno del chapter
