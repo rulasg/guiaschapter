@@ -3,9 +3,8 @@ layout: guia
 title: Resolución de conflictos con no socios.
 date: 2019-09-06
 category : Orgánica
+hashtag:  ResolucionDeConflictosConNoSocios
 ---
-
-## Preámbulo
 
 El principal objetivo del Club es ofrecer a os socios un contexto donde puedan descansar y disfrutar desconectando de su dia a dia gracias al ambiente y valores que este Club ofrece. 
 El Club siempre ha aceptando y alentando la participación de no socios en nuestros eventos porque nos gusta conocer a gente, porque nos gusta compartir y porque los amigos de nuestros amigos son nuestros amigos, y porque el modo de crecer es generando oportunidades de conocer a gente nueva y ser conocido.
