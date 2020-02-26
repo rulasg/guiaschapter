@@ -2,17 +2,13 @@
 layout: guia
 title : Elección de la Junta Directiva (JD).
 date: 2019-09-07
-hashtag:  EleccionDeLaJuntaDirectiva
 category : Orgánica
+hashtag:  EleccionDeLaJuntaDirectiva
 ---
 
-Proposición de proceso para seleccionar de forma democrática al Presidente, VicePresidente y el resto de la JD del Chapter.
-
-## Condiciones generales
+Proceso para las elecciones democráticas del Presidente, VicePresidente y el resto de la JD del Chapter.
 
 Todo este proceso se realizará de forma presencial en asamblea como dictan los estatutos nacionales.
-
-## Selección del órgano de gobierno del chapter
 
 El presidente saliente será el responsable de convocar elecciones de nueva ejecutiva y salvaguardar todo el proceso ayudado por la JD saliente.
 
