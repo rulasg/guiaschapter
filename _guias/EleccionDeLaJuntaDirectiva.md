@@ -16,7 +16,7 @@ El presidente saliente será el responsable de convocar elecciones de nueva ejec
 
 Todos los socios que lo crean conveniente podrán compartir con el chapter su postura en cuanto a su deseo o rechazo a formar parte de la próxima JD del Chapter. De este modo los socios sabrán la intención de los posibles candidatos a aceptar o declinar los cargos que se le pudieran ofrezcan durante el proceso.
 
-### Creación de lista de representantes
+### Conformación de la Lista de Representantes
 
 La lista de representares es una lista que contiene a todos los socios que obtuvieron algún voto durante el ultimo proceso se elecciones de JD del chapter, ordenada de forma descendente por números de votos conseguidos.
 
@@ -26,7 +26,7 @@ La lista de representares es una lista que contiene a todos los socios que obtuv
 
 > Esta lista se mantendrá durante toda la legislatura para hacer uso de ella en el caso de precisar la re-configuración de la JD del chapter.
 
-### Constitución de la JD
+### Elección de los miembros de la JD
 
 1. Se ofrecerá formar parte de la JD a los socios mas votados en orden descendente hasta completar el numero de miembros de la JD.
 1. Los candidatos podrán aceptar el cargo o declinar en favor del siguiente en la lista de representantes.
@@ -52,7 +52,7 @@ Los vocales serán los presidentes de los distintos chapters que formen la Asoci
 
 Los estatutos a nivel nacional requieren al chapter que elija de forma democrática, por mayoría y en asamblea del chapter a un Presidente. Este presentará a la JD Nacional su equipo de gobierno local que estará formado por el Vice-Presidente y los vocales que conforman la JD del Chapter.
 
-## Elecciones extraordinarias
+## Re-Elecciones de la JD
 
 En el caso de que algún miembro de la JD no pudiera o quisiera seguir sosteniendo su cargo se procederá a la re-configuración de la JD.
 
