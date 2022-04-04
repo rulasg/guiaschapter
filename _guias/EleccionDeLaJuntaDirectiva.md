@@ -22,7 +22,7 @@ La lista de representares es una lista que contiene a todos los socios que obtuv
 
 1. Todos los socios de pleno derecho en el momento del proceso emitirán su voto eligiendo a la persona que crean mejor les pueda representar en la JD. Se deberá garantizar el secreto de voto si el votante lo desea.
 1. El voto podrá ser delegado, habiendo el delegante informado a la JD saliente cual será su delegado con anterioridad al día de la votación.
-1. Una vez finalizada la votación se formalizara la lista de representares del chapter formado por todos los socios que hayan obtenido alguna votación ordenado de forma descendente por numero de votos obtenidos.
+1. Una vez finalizada la votación se formalizara la lista de representares del chapter formado por todos los socios que hayan obtenido alguna votación ordenado de forma descendente por numero de votos obtenidos y antiguedad, o número de socios que es lo mismo. De ese modo se resolverán los empates por número de votos.
 
 > Esta lista se mantendrá durante toda la legislatura para hacer uso de ella en el caso de precisar la re-configuración de la JD del chapter.
 
