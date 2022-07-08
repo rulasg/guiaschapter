@@ -1,0 +1,33 @@
+---
+layout: default
+title: Guias
+permalink: /guias/
+---
+
+<div class="guias">
+  
+  {% assign guias = (site.guias | sort: 'date') | reverse %}
+  {% for guia in guias %}
+  <article class="guias">
+
+    <h1><a href="{{ site.baseurl }}{{ guia.url }}">{{ guia.title }}</a></h1>
+
+    <div class="entry">
+      {{ guia.excerpt }}
+    </div>
+
+    <small>
+      <i>Escrito el {{ guia.date | date: "%e / %b / %Y" }}</i>
+      <br>
+      <b>{{ guia.category}}</b>
+    </small>
+    <div>
+      <a href="{{ site.baseurl }}{{ guia.url }}" class="read-more">Leer  más</a><br>
+    </div>
+    <div class= github_url>
+      <a href="{{ site.github.repository_url }}/edit/{{site.code-branch}}/{{ guia.path }}" class="read-more">...</a>      
+    </div>
+
+  </article>
+  {% endfor %}
+</div>
